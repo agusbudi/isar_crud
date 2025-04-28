@@ -1,6 +1,8 @@
 # isar_crud
 
 Storybase: A new Flutter project. One of the alternative answers for the mid-semester exam for mobile programming class.
+
+
 ![midterm exam task](https://github.com/user-attachments/assets/fc7abe88-b930-43db-9865-ce2ba1d98b57)
 
 local database: ISAR
