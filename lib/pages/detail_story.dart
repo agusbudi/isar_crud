@@ -5,9 +5,6 @@ class ListItemPage extends StatelessWidget {
   final String itemDesc;
   final String itemURL;
 
-  final nameController = TextEditingController();
-  final urlCharController = TextEditingController();
-
   ListItemPage(this.itemTitle, this.itemDesc, this.itemURL);
 
   get context => null;

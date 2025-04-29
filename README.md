@@ -7,6 +7,18 @@ Storybase: A new Flutter project. One of the alternative answers for the mid-sem
 
 local database: ISAR
 
+**Some references:**
+Navigate to a new screen and back:
+https://docs.flutter.dev/cookbook/navigation/navigation-basics
+https://alitalhacoban.medium.com/listview-with-navigator-flutter-79e4fac0ee8b
+
+ListTile:
+https://blog.logrocket.com/how-add-list-tile-flutter/
+https://stackoverflow.com/questions/52207612/how-to-use-dividetiles-in-flutter
+
+alertDialog:
+https://api.flutter.dev/flutter/material/AlertDialog-class.html
+
 
 ## Getting Started
 
